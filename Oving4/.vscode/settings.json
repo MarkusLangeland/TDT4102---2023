@@ -1,0 +1,24 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "cmake.configureOnOpen": false,
+    "cmake.autoSelectActiveFolder": false,
+    "cmake.configureOnEdit": false,
+    "makefile.alwaysPreConfigure": false,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "codecvt": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp"
+    }
+}

@@ -1,0 +1,5 @@
+TDT4102;c++
+TDT4110;Informasjonsteknologi grunnkurs
+TMA1234;Test 1
+TMA1235;Test 2
+TMA4100;Matematikk 1
