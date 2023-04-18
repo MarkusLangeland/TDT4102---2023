@@ -11,6 +11,7 @@ int main()
     int input;
     std::cout << "Write a number (0-5): " << std::endl;
     std::cin >> input;
+
     Matrix M{4};
     Matrix M2{4, 7};
 
