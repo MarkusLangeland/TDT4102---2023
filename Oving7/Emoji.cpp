@@ -23,8 +23,6 @@ void EmptyFace::draw(AnimationWindow &win)
     Face::draw(win);
     win.draw_circle(LeftEye, EyeRadius, Color::white, Color::black);
     win.draw_circle(RightEye, EyeRadius, Color::white, Color::black);
-    // win.draw_circle({LeftEye.x, LeftEye.y + 5}, EyeRadius / 5, Color::black);   // Pupil
-    // win.draw_circle({RightEye.x, RightEye.y + 5}, EyeRadius / 5, Color::black); // Pupil
 }
 
 SmilingFace::SmilingFace(Point c, int r) : EmptyFace(c, r)
